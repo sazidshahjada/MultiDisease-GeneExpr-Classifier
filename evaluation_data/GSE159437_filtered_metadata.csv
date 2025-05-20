@@ -1,0 +1,73 @@
+"",characteristics,disease state,differentiation days + oxygen%,differentiation end point cell type,gender,differentiation.days...oxygen..ch1,differentiation.end.point.cell.type.ch1,disease.state.ch1,gender.ch1
+GSM4829785,differentiated induced pluripotent stem cell,Normal,day+4 under 2% oxygen,Extravillous trophoblast,Male,day+4 under 2% oxygen,Extravillous trophoblast,Normal,Male
+GSM4829786,differentiated induced pluripotent stem cell,Normal,day+4 under 21% oxygen,Syncytiotrophoblast,Male,day+4 under 21% oxygen,Syncytiotrophoblast,Normal,Male
+GSM4829787,induced pluripotent stem cell,Normal,day 0,induced pluripotent stem cell,Male,day 0,induced pluripotent stem cell,Normal,Male
+GSM4829788,differentiated induced pluripotent stem cell,Normal,day 4,Cytotrophoblast,Male,day 4,Cytotrophoblast,Normal,Male
+GSM4829789,differentiated induced pluripotent stem cell,Normal,day+4 under 2% oxygen,Extravillous trophoblast,Male,day+4 under 2% oxygen,Extravillous trophoblast,Normal,Male
+GSM4829790,differentiated induced pluripotent stem cell,Normal,day+4 under 21% oxygen,Syncytiotrophoblast,Male,day+4 under 21% oxygen,Syncytiotrophoblast,Normal,Male
+GSM4829791,induced pluripotent stem cell,Normal,day 0,induced pluripotent stem cell,Male,day 0,induced pluripotent stem cell,Normal,Male
+GSM4829792,differentiated induced pluripotent stem cell,Normal,day 4,Cytotrophoblast,Male,day 4,Cytotrophoblast,Normal,Male
+GSM4829793,differentiated induced pluripotent stem cell,Normal,day+4 under 2% oxygen,Extravillous trophoblast,Male,day+4 under 2% oxygen,Extravillous trophoblast,Normal,Male
+GSM4829794,differentiated induced pluripotent stem cell,Normal,day+4 under 21% oxygen,Syncytiotrophoblast,Male,day+4 under 21% oxygen,Syncytiotrophoblast,Normal,Male
+GSM4829795,induced pluripotent stem cell,Normal,day 0,induced pluripotent stem cell,Male,day 0,induced pluripotent stem cell,Normal,Male
+GSM4829796,differentiated induced pluripotent stem cell,Normal,day 4,Cytotrophoblast,Male,day 4,Cytotrophoblast,Normal,Male
+GSM4829797,differentiated induced pluripotent stem cell,Severe Preeclampsia,day+4 under 2% oxygen,Extravillous trophoblast,Female,day+4 under 2% oxygen,Extravillous trophoblast,Severe Preeclampsia,Female
+GSM4829798,differentiated induced pluripotent stem cell,Severe Preeclampsia,day+4 under 21% oxygen,Syncytiotrophoblast,Female,day+4 under 21% oxygen,Syncytiotrophoblast,Severe Preeclampsia,Female
+GSM4829799,induced pluripotent stem cell,Severe Preeclampsia,day 0,induced pluripotent stem cell,Female,day 0,induced pluripotent stem cell,Severe Preeclampsia,Female
+GSM4829800,differentiated induced pluripotent stem cell,Severe Preeclampsia,day 4,Cytotrophoblast,Female,day 4,Cytotrophoblast,Severe Preeclampsia,Female
+GSM4829801,differentiated induced pluripotent stem cell,Severe Preeclampsia,day+4 under 2% oxygen,Extravillous trophoblast,Female,day+4 under 2% oxygen,Extravillous trophoblast,Severe Preeclampsia,Female
+GSM4829802,differentiated induced pluripotent stem cell,Severe Preeclampsia,day+4 under 21% oxygen,Syncytiotrophoblast,Female,day+4 under 21% oxygen,Syncytiotrophoblast,Severe Preeclampsia,Female
+GSM4829803,induced pluripotent stem cell,Severe Preeclampsia,day 0,induced pluripotent stem cell,Female,day 0,induced pluripotent stem cell,Severe Preeclampsia,Female
+GSM4829804,differentiated induced pluripotent stem cell,Severe Preeclampsia,day 4,Cytotrophoblast,Female,day 4,Cytotrophoblast,Severe Preeclampsia,Female
+GSM4829805,differentiated induced pluripotent stem cell,Severe Preeclampsia,day+4 under 2% oxygen,Extravillous trophoblast,Female,day+4 under 2% oxygen,Extravillous trophoblast,Severe Preeclampsia,Female
+GSM4829806,differentiated induced pluripotent stem cell,Severe Preeclampsia,day+4 under 21% oxygen,Syncytiotrophoblast,Female,day+4 under 21% oxygen,Syncytiotrophoblast,Severe Preeclampsia,Female
+GSM4829807,induced pluripotent stem cell,Severe Preeclampsia,day 0,induced pluripotent stem cell,Female,day 0,induced pluripotent stem cell,Severe Preeclampsia,Female
+GSM4829808,differentiated induced pluripotent stem cell,Severe Preeclampsia,day 4,Cytotrophoblast,Female,day 4,Cytotrophoblast,Severe Preeclampsia,Female
+GSM4829809,differentiated induced pluripotent stem cell,Severe Preeclampsia,day+4 under 2% oxygen,Extravillous trophoblast,Male,day+4 under 2% oxygen,Extravillous trophoblast,Severe Preeclampsia,Male
+GSM4829810,differentiated induced pluripotent stem cell,Severe Preeclampsia,day+4 under 21% oxygen,Syncytiotrophoblast,Male,day+4 under 21% oxygen,Syncytiotrophoblast,Severe Preeclampsia,Male
+GSM4829811,induced pluripotent stem cell,Severe Preeclampsia,day 0,induced pluripotent stem cell,Male,day 0,induced pluripotent stem cell,Severe Preeclampsia,Male
+GSM4829812,differentiated induced pluripotent stem cell,Severe Preeclampsia,day 4,Cytotrophoblast,Male,day 4,Cytotrophoblast,Severe Preeclampsia,Male
+GSM4829813,differentiated induced pluripotent stem cell,Severe Preeclampsia,day+4 under 2% oxygen,Extravillous trophoblast,Male,day+4 under 2% oxygen,Extravillous trophoblast,Severe Preeclampsia,Male
+GSM4829814,differentiated induced pluripotent stem cell,Severe Preeclampsia,day+4 under 21% oxygen,Syncytiotrophoblast,Male,day+4 under 21% oxygen,Syncytiotrophoblast,Severe Preeclampsia,Male
+GSM4829815,induced pluripotent stem cell,Severe Preeclampsia,day 0,induced pluripotent stem cell,Male,day 0,induced pluripotent stem cell,Severe Preeclampsia,Male
+GSM4829816,differentiated induced pluripotent stem cell,Severe Preeclampsia,day 4,Cytotrophoblast,Male,day 4,Cytotrophoblast,Severe Preeclampsia,Male
+GSM4829817,differentiated induced pluripotent stem cell,Severe Preeclampsia,day+4 under 2% oxygen,Extravillous trophoblast,Male,day+4 under 2% oxygen,Extravillous trophoblast,Severe Preeclampsia,Male
+GSM4829818,differentiated induced pluripotent stem cell,Severe Preeclampsia,day+4 under 21% oxygen,Syncytiotrophoblast,Male,day+4 under 21% oxygen,Syncytiotrophoblast,Severe Preeclampsia,Male
+GSM4829819,induced pluripotent stem cell,Severe Preeclampsia,day 0,induced pluripotent stem cell,Male,day 0,induced pluripotent stem cell,Severe Preeclampsia,Male
+GSM4829820,differentiated induced pluripotent stem cell,Severe Preeclampsia,day 4,Cytotrophoblast,Male,day 4,Cytotrophoblast,Severe Preeclampsia,Male
+GSM4829821,differentiated induced pluripotent stem cell,Normal,day+4 under 2% oxygen,Extravillous trophoblast,Male,day+4 under 2% oxygen,Extravillous trophoblast,Normal,Male
+GSM4829822,differentiated induced pluripotent stem cell,Normal,day+4 under 21% oxygen,Syncytiotrophoblast,Male,day+4 under 21% oxygen,Syncytiotrophoblast,Normal,Male
+GSM4829823,induced pluripotent stem cell,Normal,day 0,induced pluripotent stem cell,Male,day 0,induced pluripotent stem cell,Normal,Male
+GSM4829824,differentiated induced pluripotent stem cell,Normal,day 4,Cytotrophoblast,Male,day 4,Cytotrophoblast,Normal,Male
+GSM4829825,differentiated induced pluripotent stem cell,Normal,day+4 under 2% oxygen,Extravillous trophoblast,Male,day+4 under 2% oxygen,Extravillous trophoblast,Normal,Male
+GSM4829826,differentiated induced pluripotent stem cell,Normal,day+4 under 21% oxygen,Syncytiotrophoblast,Male,day+4 under 21% oxygen,Syncytiotrophoblast,Normal,Male
+GSM4829827,induced pluripotent stem cell,Normal,day 0,induced pluripotent stem cell,Male,day 0,induced pluripotent stem cell,Normal,Male
+GSM4829828,differentiated induced pluripotent stem cell,Normal,day 4,Cytotrophoblast,Male,day 4,Cytotrophoblast,Normal,Male
+GSM4829829,differentiated induced pluripotent stem cell,Normal,day+4 under 2% oxygen,Extravillous trophoblast,Male,day+4 under 2% oxygen,Extravillous trophoblast,Normal,Male
+GSM4829830,differentiated induced pluripotent stem cell,Normal,day+4 under 21% oxygen,Syncytiotrophoblast,Male,day+4 under 21% oxygen,Syncytiotrophoblast,Normal,Male
+GSM4829831,induced pluripotent stem cell,Normal,day 0,induced pluripotent stem cell,Male,day 0,induced pluripotent stem cell,Normal,Male
+GSM4829832,differentiated induced pluripotent stem cell,Normal,day 4,Cytotrophoblast,Male,day 4,Cytotrophoblast,Normal,Male
+GSM4829833,differentiated induced pluripotent stem cell,Normal,day+4 under 2% oxygen,Extravillous trophoblast,Female,day+4 under 2% oxygen,Extravillous trophoblast,Normal,Female
+GSM4829834,differentiated induced pluripotent stem cell,Normal,day+4 under 21% oxygen,Syncytiotrophoblast,Female,day+4 under 21% oxygen,Syncytiotrophoblast,Normal,Female
+GSM4829835,induced pluripotent stem cell,Normal,day 0,induced pluripotent stem cell,Female,day 0,induced pluripotent stem cell,Normal,Female
+GSM4829836,differentiated induced pluripotent stem cell,Normal,day 4,Cytotrophoblast,Female,day 4,Cytotrophoblast,Normal,Female
+GSM4829837,differentiated induced pluripotent stem cell,Normal,day+4 under 2% oxygen,Extravillous trophoblast,Female,day+4 under 2% oxygen,Extravillous trophoblast,Normal,Female
+GSM4829838,differentiated induced pluripotent stem cell,Normal,day+4 under 21% oxygen,Syncytiotrophoblast,Female,day+4 under 21% oxygen,Syncytiotrophoblast,Normal,Female
+GSM4829839,induced pluripotent stem cell,Normal,day 0,induced pluripotent stem cell,Female,day 0,induced pluripotent stem cell,Normal,Female
+GSM4829840,differentiated induced pluripotent stem cell,Normal,day 4,Cytotrophoblast,Female,day 4,Cytotrophoblast,Normal,Female
+GSM4829841,differentiated induced pluripotent stem cell,Normal,day+4 under 2% oxygen,Extravillous trophoblast,Female,day+4 under 2% oxygen,Extravillous trophoblast,Normal,Female
+GSM4829842,differentiated induced pluripotent stem cell,Normal,day+4 under 21% oxygen,Syncytiotrophoblast,Female,day+4 under 21% oxygen,Syncytiotrophoblast,Normal,Female
+GSM4829843,induced pluripotent stem cell,Normal,day 0,induced pluripotent stem cell,Female,day 0,induced pluripotent stem cell,Normal,Female
+GSM4829844,differentiated induced pluripotent stem cell,Normal,day 4,Cytotrophoblast,Female,day 4,Cytotrophoblast,Normal,Female
+GSM4829845,differentiated induced pluripotent stem cell,Severe Preeclampsia,day+4 under 2% oxygen,Extravillous trophoblast,Female,day+4 under 2% oxygen,Extravillous trophoblast,Severe Preeclampsia,Female
+GSM4829846,differentiated induced pluripotent stem cell,Severe Preeclampsia,day+4 under 21% oxygen,Syncytiotrophoblast,Female,day+4 under 21% oxygen,Syncytiotrophoblast,Severe Preeclampsia,Female
+GSM4829847,induced pluripotent stem cell,Severe Preeclampsia,day 0,induced pluripotent stem cell,Female,day 0,induced pluripotent stem cell,Severe Preeclampsia,Female
+GSM4829848,differentiated induced pluripotent stem cell,Severe Preeclampsia,day 4,Cytotrophoblast,Female,day 4,Cytotrophoblast,Severe Preeclampsia,Female
+GSM4829849,differentiated induced pluripotent stem cell,Severe Preeclampsia,day+4 under 2% oxygen,Extravillous trophoblast,Female,day+4 under 2% oxygen,Extravillous trophoblast,Severe Preeclampsia,Female
+GSM4829850,differentiated induced pluripotent stem cell,Severe Preeclampsia,day+4 under 21% oxygen,Syncytiotrophoblast,Female,day+4 under 21% oxygen,Syncytiotrophoblast,Severe Preeclampsia,Female
+GSM4829851,induced pluripotent stem cell,Severe Preeclampsia,day 0,induced pluripotent stem cell,Female,day 0,induced pluripotent stem cell,Severe Preeclampsia,Female
+GSM4829852,differentiated induced pluripotent stem cell,Severe Preeclampsia,day 4,Cytotrophoblast,Female,day 4,Cytotrophoblast,Severe Preeclampsia,Female
+GSM4829853,differentiated induced pluripotent stem cell,Severe Preeclampsia,day+4 under 2% oxygen,Extravillous trophoblast,Female,day+4 under 2% oxygen,Extravillous trophoblast,Severe Preeclampsia,Female
+GSM4829854,differentiated induced pluripotent stem cell,Severe Preeclampsia,day+4 under 21% oxygen,Syncytiotrophoblast,Female,day+4 under 21% oxygen,Syncytiotrophoblast,Severe Preeclampsia,Female
+GSM4829855,induced pluripotent stem cell,Severe Preeclampsia,day 0,induced pluripotent stem cell,Female,day 0,induced pluripotent stem cell,Severe Preeclampsia,Female
+GSM4829856,differentiated induced pluripotent stem cell,Severe Preeclampsia,day 4,Cytotrophoblast,Female,day 4,Cytotrophoblast,Severe Preeclampsia,Female
